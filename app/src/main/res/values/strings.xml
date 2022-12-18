@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="title_activity_instruction_slider">InstructionSlider</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <!--    <string name="next">Next</string>-->
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- My Strings -->
+
+    // Instruction
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+
+    // Categories
+    <string name="all">All</string>
+    <string name="clothing">Clothing</string>
+    <string name="accessories">Accessories</string>
+    <string name="bags">Bags</string>
+    <string name="footwear">Footwear</string>
+    <string name="sports">Sports</string>
+
+    // Discount
+    <string name="firstDiscountSentence">50% OFF</string>
+    <string name="secondDiscountSentence">On all women\'s shoes</string>
+
+    // Subtitle
+    <string name="new_items">New Items</string>
+    <string name="add_basket">+ Add To Basket</string>
+
+    // Product Content
+    <string name="description">Description</string>
+    <string name="choose_size">Choose Size</string>
+
+    // Profile Screen
+    <string name="work_in_progress">This is currently work in progress</string>
+    <string name="grab_beverage">Grab a beverage and check back later!</string>
+
+    <string name="title_activity_categories">Categories</string>
+    <string name="title_activity_basket">Basket</string>
+    <string name="title_activity_basket_pa_ge">BasketPaGE</string>
+    <string name="title_activity_basket_page">BasketPage</string>
+
+</resources>
